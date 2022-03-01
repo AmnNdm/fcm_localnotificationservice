@@ -1,4 +1,4 @@
-# sound_notification
+# fcm_localnotificationservice
 
 A new Flutter project.
 
